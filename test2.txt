@@ -1,8 +1,0 @@
-Hello world!
-Hello world!
-<<<<<<< HEAD
-Hello world!!!!!
-Hello world!
-=======
->>>>>>> b95368bc085a0868e75179d7b2f61026863695c9
-Hello world!
