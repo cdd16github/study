@@ -1,0 +1,177 @@
+[33mcommit cba4e9d6424e7b93440affbf455005351cadc2c2[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Aug 22 22:35:25 2018 +0800
+
+    test
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit 3518eccd4c043d15ade054d3ac8e0d29ecacf32f[m
+Merge: 4d96e2f beb166d
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jul 4 21:17:03 2018 +0800
+
+    Merge branch 'master' of github.com:cdd16github/study
+
+[33mcommit beb166df3e8f6c79e49be2350fb37dae0ffa736c[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jul 4 21:11:02 2018 +0800
+
+    standby
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit 4d96e2fd34a1e49df66f24d62791ea7c0d328cea[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jul 4 21:08:06 2018 +0800
+
+    giy
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit fadf1fe329c54265300222be9ee6c928be2e3f14[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jul 4 21:06:24 2018 +0800
+
+    新建
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit 477995c5dd673d196e815c080d3a2f2d49407dde[m
+Author: cdd16github <40637265+cdd16github@users.noreply.github.com>
+Date:   Wed Jul 4 20:53:47 2018 +0800
+
+    Delete txt.txt
+
+[33mcommit d32cfd4bcae38944347a6a7f1ea5bcb74dee9b38[m
+Author: cdd16github <40637265+cdd16github@users.noreply.github.com>
+Date:   Wed Jul 4 20:53:34 2018 +0800
+
+    Delete 新建文本文档.txt
+
+[33mcommit 7540c6bacfaf63a55492d3a63f8112ed2f78e43a[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jul 4 20:52:21 2018 +0800
+
+    添加
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit 147590f55ea49895633b69b381669c6e6afe9f01[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Sun Jul 1 22:32:14 2018 +0800
+
+    成功
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit f9e62ef10b2a9413461fedaabe5562c79db9d394[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Sun Jul 1 22:24:13 2018 +0800
+
+    cdd
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit 4cf1a5a2c86d8efb03ab6b376e752e658a916a09[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Sun Jul 1 18:50:40 2018 +0800
+
+    修改2
+
+[33mcommit 044287c99209506229a117e063ecb73c60dca50e[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Sun Jul 1 18:32:19 2018 +0800
+
+    提交test
+
+[33mcommit d36ce504b2fc9332140c6865b2fa8355f5182985[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Sun Jul 1 17:21:37 2018 +0800
+
+    提交xml
+
+[33mcommit adcabb2af41d5caa0e1c6dd7bd1b27e6a7891f29[m
+Author: cdd16github <40637265+cdd16github@users.noreply.github.com>
+Date:   Thu Jun 28 23:37:57 2018 +0800
+
+    Delete test2.txt
+
+[33mcommit 358561b1f3436c37128759cc5823c787a807be7d[m
+Author: cdd16github <40637265+cdd16github@users.noreply.github.com>
+Date:   Thu Jun 28 23:37:41 2018 +0800
+
+    Delete test.com.txt
+
+[33mcommit 967c445dea864674a66eb801e39e21d03c842be6[m
+Author: cdd16github <40637265+cdd16github@users.noreply.github.com>
+Date:   Thu Jun 28 23:26:17 2018 +0800
+
+    Delete test3.docx
+    
+    无信息
+
+[33mcommit ae9a15ba369b52982cfa588fea2fb2b211107b31[m
+Merge: b9582ef b95368b
+Author: 陈德东 <chendedong66@163.com>
+Date:   Thu Jun 28 22:54:27 2018 +0800
+
+    Merge branch 'master' of F:/ProjectDemo/
+    
+    # Conflicts:
+    #	test2.txt
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit b95368bc085a0868e75179d7b2f61026863695c9[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 23:44:14 2018 +0800
+
+    cc
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit b9582efe5070663b4ed4965141dc92b1410d346b[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 23:30:22 2018 +0800
+
+    提交
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit c720ee119e84ff54711485a370896ad3148d9262[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 23:21:38 2018 +0800
+
+    修改
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit edfbcfa73501f5bae275590b6f0216c41014bf27[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 23:17:26 2018 +0800
+
+    修改了消息
+    
+    Signed-off-by: 陈德东 <chendedong66@163.com>
+
+[33mcommit 6fb6a609ad90fd20046530e50289294325d2b2b2[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 22:50:27 2018 +0800
+
+    ss
+
+[33mcommit 8674813e1f09c66a958858c31fd3f20aca2c39a8[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 22:47:49 2018 +0800
+
+    commit
+
+[33mcommit caeea35ec4f031c4cd48650b0714f7821b13320b[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 21:50:19 2018 +0800
+
+    seconde commit
+
+[33mcommit 4f8e2d937279dd87c8a7a9810121732222c18ea8[m
+Author: 陈德东 <chendedong66@163.com>
+Date:   Wed Jun 27 20:42:06 2018 +0800
+
+    添加的项目
